@@ -1,1 +1,1 @@
-token = "asdfasdf" #bot token here
+token = "" #bot token here
